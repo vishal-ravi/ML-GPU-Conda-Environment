@@ -42,7 +42,7 @@ This repository provides a **ready-to-use, GPU-accelerated Conda environment** f
 - **OS:** Linux (tested on Ubuntu/Pop!_OS)
 - **GPU:** NVIDIA with CUDA support (e.g., RTX A4000 or better)
 - **Driver:** NVIDIA Driver ≥ 535
-- **CUDA Toolkit:** 12.1 or 12.8
+- **CUDA Toolkit:** 12.1 or 11.8
 - **Conda:** Anaconda or Miniconda
 
 Check your GPU:
