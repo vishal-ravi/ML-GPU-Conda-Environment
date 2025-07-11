@@ -152,10 +152,15 @@ pip install tensorflow --upgrade
 ## 📦 Included Libraries
 
 **Deep Learning**: TensorFlow, PyTorch, Keras
+
 **Machine Learning**: Scikit-learn, XGBoost, LightGBM, CatBoost
+
 **NLP**: Transformers, spaCy, NLTK, TextBlob
+
 **Computer Vision**: OpenCV, Pillow, scikit-image
+
 **Visualization**: Matplotlib, Seaborn, Plotly, Pandas-Profiling
+
 **MLOps & Utilities**: Jupyter, MLflow, Weights & Biases, Optuna, AutoGluon, tqdm, rich, psutil, accelerate
 
 ---
